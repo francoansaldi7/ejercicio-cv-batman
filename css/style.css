@@ -1,0 +1,50 @@
+body {
+    width: 1440px;
+}
+
+.logoImg{
+    display: flex;
+    justify-content: center;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.grey{
+    background-color: #C4C4C4;
+}
+
+.blue{
+    color: #005677
+}
+
+.cvContainer {
+    height: 100px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.spread {
+    height: 250px;
+}
+
+.background{
+    background-color: #005677;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+
+
+
+
